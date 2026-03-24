@@ -2,6 +2,10 @@
 
 TyreBot is a modern e-commerce website built using HTML, CSS, and JavaScript, designed to help users explore and purchase tyres for cars, bikes, and trucks. It also includes a rule-based chatbot that assists users with tyre recommendations and specifications.
 
+[**🔗Live Website**](https://kethnulee-weerasinghe4.github.io/TyreBot-website/)
+
+![Website Preview](./preview.png)
+
 ---
 
 ## Project Overview
@@ -40,4 +44,5 @@ The design emphasizes simplicity and accessibility, ensuring a smooth experience
 ### Option 1: Run Locally
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/tyrebot.git
+git clone https://github.com/Kethnulee-Weerasinghe4/TyreBot-website.git
+cd TyreBot-website
