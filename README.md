@@ -41,7 +41,7 @@ The design emphasizes simplicity and accessibility, ensuring a smooth experience
 
 ## Installation
 
-### Option 1: Run Locally
+### Run Locally
 Clone the repository:
 ```bash
 git clone https://github.com/Kethnulee-Weerasinghe4/TyreBot-website.git
