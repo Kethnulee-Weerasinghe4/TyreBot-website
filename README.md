@@ -27,7 +27,7 @@ The design emphasizes simplicity and accessibility, ensuring a smooth experience
 
 ---
 
-## 5. Tech Stack
+## Tech Stack
 
 ### Frontend
 - HTML
