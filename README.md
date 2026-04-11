@@ -18,11 +18,10 @@ The design emphasizes simplicity and accessibility, ensuring a smooth experience
 ---
 
 ## Features
-- E-commerce interface (Car, Bike, Truck categories)
+- E-commerce interface 
 - Rule-based chatbot for instant assistance
 - Tyre specification explanations (size, width, usage)
 - Vehicle-based tyre recommendations
-- Video-based modern homepage design
 - Organized categories and product cards
 
 ---
